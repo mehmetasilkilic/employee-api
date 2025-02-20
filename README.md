@@ -4,10 +4,10 @@ This is a simple API server that you'll use to build your Employee Management ap
 
 ## Quick Setup
 
-1. Create a new folder for the API:
+1. Clone the repository:
 
 ```bash
-mkdir employee-api
+git clone https://github.com/mehmetasilkilic/employee-api
 cd employee-api
 ```
 
